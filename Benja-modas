@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Benja Modas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Benja Modas</div>
+    <nav>
+      <ul>
+        <li><a href="#">Início</a></li>
+        <li><a href="#">Coleções</a></li>
+        <li><a href="#">Promoções</a></li>
+        <li><a href="#">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="banner">
+    <img src="images/banner1.jpg" alt="Banner de moda">
+  </section>
+
+  <section class="destaques">
+    <h2>Destaques</h2>
+    <div class="produtos">
+      <div class="produto">
+        <img src="images/produto1.jpg" alt="Produto 1">
+        <p>Vestido Floral - R$99,90</p>
+      </div>
+      <!-- Agrega más productos aquí -->
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Benja Modas. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
